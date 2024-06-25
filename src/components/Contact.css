@@ -1,5 +1,3 @@
-/* src/components/Contact.css */
-
 .App{
   display: flex;
   justify-content: flex-start;
@@ -31,7 +29,7 @@
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  border: 2px solid white; /* Optional: to add a border around the status indicator */
+  border: 2px solid white; 
 }
 
 .connected {
